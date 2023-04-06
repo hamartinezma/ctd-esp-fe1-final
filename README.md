@@ -1,6 +1,8 @@
 # ctd-esp-fe1-final
 Examen Final de Frontend IV
 
+Héctor Alexander Martínez
+
 ## Indice
 * [Requisitos](#requisitos)
   * [Condiciones mínimas de aprobación](#condiciones-mínimas-de-aprobación)
